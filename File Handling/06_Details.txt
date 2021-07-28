@@ -1,0 +1,3 @@
+ (0) NAME: [AAA     ] 	 SALARY 1000.00
+ (1) NAME: [BBB      ] 	 SALARY 2000.00
+ (2) NAME: [CCC      ] 	 SALARY 3000.00
