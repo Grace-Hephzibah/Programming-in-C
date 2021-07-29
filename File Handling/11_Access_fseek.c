@@ -2,17 +2,17 @@
 #include<conio.h>
 #include<stdlib.h>
 
-struct employee
+typedef struct
 {
   int emp_code, hra, da, ta;
   char name[20];
-};
+}emp;
 
 
 int main()
 {
   FILE *fp;
-  struct employee e;
+  emp e;
 
   int result, rec_no;
 
